@@ -10,7 +10,7 @@ Outside the realm of software testing, I'm an avid enthusiast of tennis, geopoli
 
 
 ## Tech Stack
-- **ISTQB:** [Foundation Level Certified](https://drive.google.com/file/d/1RfHn0VTPUqYxm0ttQM9strxOtc0qpn75/view?usp=drive_link)
+- **ISTQB:** Foundation Level [(Certified)](https://drive.google.com/file/d/1RfHn0VTPUqYxm0ttQM9strxOtc0qpn75/view?usp=drive_link)
 - **Databases:** MySQL
 - **Languages:** Java, Javascript (Test Automation)
 - **Testing:** Selenium, JUnit, Postman, CSS Selectors, XPATH, Cucumber (Behavior-Driven Development)

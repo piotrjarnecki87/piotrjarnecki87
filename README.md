@@ -2,10 +2,7 @@
 
 ## About Me
 
-Greetings! I'm Piotr Jarnecki, a dedicated software tester with a solid foundation in ISTQB principles.
-I specialize in Java and JavaScript, utilizing them to harness the full potential of test automation. I have a fervent enthusiasm for learning and implementing cutting-edge testing methodologies. My toolkit boasts proficiency in Java-centric tools such as Selenium, JUnit, CSS Selectors, and XPATH, with a growing mastery of Cucumber for behavior-driven development.
-In the collaborative landscape, I navigate seamlessly through tools like Confluence, JIRA, and Trello, ensuring effective communication and streamlined project management. Additionally, I'm in the process of mastering build automation with Maven and Gradle, further enhancing the efficiency of Java-based testing workflows.
-Outside the realm of software testing, I'm an avid enthusiast of tennis, geopolitics, and automotive mechanics.
+Greetings! I'm Piotr Jarnecki, detail-oriented and creative software tester with a solid foundation in ISTQB principles and pecialised in Java and JavaScript, leveraging them to maximize the potential of test automation. My enthusiasm for learning drives me to implement cutting-edge testing methodologies. My toolkit includes proficiency in Java-centric tools such as Selenium, JUnit, CSS Selectors, and XPATH, complemented by a growing mastery of Cucumber for behavior-driven development. In the collaborative landscape, I navigate seamlessly through tools like Confluence, JIRA, and Trello, ensuring effective communication and streamlined project management. Additionally, I'm currently mastering build automation with Maven and Gradle, further enhancing the efficiency of Java-based testing workflows. Beyond software testing, I am an enthusiast of tennis, geopolitics, and automotive mechanics.
 
 
 ## Tech Stack

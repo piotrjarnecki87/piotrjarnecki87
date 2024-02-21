@@ -6,7 +6,8 @@ Greetings! I'm Piotr Jarnecki, detail-oriented and creative software tester with
 
 ## Certificates 
 - **ISTQB:** Foundation Level [(Certified)](https://drive.google.com/file/d/1RfHn0VTPUqYxm0ttQM9strxOtc0qpn75/view?usp=drive_link)
-- **Java (Basic) Certificate - Hackerrank** [(Certified)] [()](https://www.hackerrank.com/certificates/iframe/4e3b779d98d7)
+- **Java (Basic) Certificate - Hackerrank** [(Certified)](https://www.hackerrank.com/certificates/4e3b779d98d7)
+- 
 
 
 ## Tech Stack

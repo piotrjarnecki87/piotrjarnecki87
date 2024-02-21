@@ -11,6 +11,7 @@ Greetings! I'm Piotr Jarnecki, detail-oriented and creative software tester with
 
 ## Tech Stack
 - **Java:**
+
 ![Piotr Jarnecki](https://drive.google.com/uc?export=view&id=1ZatN0tMROD-G807WwQ5Pa_hoVD-Ox5t7)
 
 

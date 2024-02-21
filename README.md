@@ -10,22 +10,6 @@ Greetings! I'm Piotr Jarnecki, detail-oriented and creative software tester with
 
 
 ## Tech Stack
-- **Java:**
 
-![Piotr Jarnecki](https://drive.google.com/uc?export=view&id=1ZatN0tMROD-G807WwQ5Pa_hoVD-Ox5t7)
-
-
-## Tools
-
-
-## Tech skils
-- 
-
-
-
-
-- **Databases:** MySQL
-- **Languages:** Java, Javascript (Test Automation)
-- **Testing:** JUnit, Selenium(CSS Selectors, HTML), Postman, Apache JMeter,  Cucumber (Behavior-Driven Development)
-- **Other tools:** Confluence, JIRA, Trello
+![Piotr Jarnecki](https://drive.google.com/file/d/1WszrSuURltCuVerNTQnscmr6KcMu8FhS/view?usp=sharing)
 

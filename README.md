@@ -11,4 +11,8 @@ Hello there! I'm Piotr Jarnecki, a meticulous and imaginative software tester pr
 ## Tech Stack
 ![Piotr Jarnecki](https://drive.google.com/uc?id=1WszrSuURltCuVerNTQnscmr6KcMu8FhS)
 
+## Books
+- Radosław Smilgin - [(Zawód tester)](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
+- Piotr Wicherski - [(Testowanie Oprogramowania)](https://ksiazka.testowanieoprogramowania.pl/)
+
 

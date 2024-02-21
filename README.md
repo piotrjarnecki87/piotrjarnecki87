@@ -11,5 +11,8 @@ Greetings! I'm Piotr Jarnecki, detail-oriented and creative software tester with
 
 ## Tech Stack
 
-![Piotr Jarnecki](https://drive.google.com/file/d/1WszrSuURltCuVerNTQnscmr6KcMu8FhS)
+## Tech Stack
+
+![Piotr Jarnecki](https://drive.google.com/uc?id=1WszrSuURltCuVerNTQnscmr6KcMu8FhS)
+
 

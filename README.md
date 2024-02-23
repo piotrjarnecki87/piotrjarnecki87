@@ -13,11 +13,12 @@ Hello there! I'm Piotr Jarnecki, a meticulous and imaginative software tester pr
 
 ## Manual Testing Projects
 1. Testing for the Acme, Inc. login page ensures its functionality, appearance on diverse devices, and login form behavior across various scenarios.
-   a. specification
-   b. test plan
-   c. test scenarios
-   b. test cases
-   e. bug report
+   - specification
+   - test plan
+   - test scenarios
+   - test cases
+   - bug report
+
 
 ## Books
 - Radosław Smilgin - [(Zawód tester)](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)

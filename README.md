@@ -13,7 +13,7 @@ Hello there! I'm Piotr Jarnecki, a meticulous and imaginative software tester pr
 
 ## Manual Testing Projects
 1. Testing for the Acme, Inc. login page ensures its functionality, appearance on diverse devices, and login form behavior across various scenarios.
-   - [(specification)]()
+   - [(specification)](https://drive.google.com/file/d/1vyTB3h1BTTuAhXOGnRhUZqut_zenpFZb/view?usp=sharing)
    - [(test plan)]()
    - [(test scenarios)]()
    - [(test cases)]()
